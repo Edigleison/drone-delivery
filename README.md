@@ -14,7 +14,8 @@ To start the API you should execute the command below inside the directory **dro
 
 `./mvnw spring-boot:run`
 
-- **drone-delivery-ui**: a web application (using react) that alows the user to select the input file and to send to the API and save the output file.
+- **drone-delivery-ui**: a web application (using react) that allows the user to select the input file and send it to the API and save the output file.
+
 To start the ui application you should execute the command below inside the directory **drone-delivery-ui**
 
 `npm install && npm start`
